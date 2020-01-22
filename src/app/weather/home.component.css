@@ -1,0 +1,39 @@
+.size{
+    height: 100px;
+    width: 100px;
+}
+.fstyle{
+    font-family: 'Courgette', cursive;
+    font-size: 70px;
+   
+}
+.fontstyle{
+    font-family: 'Courgette', cursive;
+}
+.bstyle{
+    background-image: url("https://images.unsplash.com/photo-1548268770-66184a21657e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    height: 657px;
+    
+}
+.istyle{
+    background: none;
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+}
+.h4style{
+    font-family: 'Gelasio', serif;
+}
+.position{
+   margin-top: 8%;
+    margin-bottom: 30%;
+    padding-bottom: 40%;
+}
+.hstyle{
+    font-family: 'Courgette', cursive;
+}
+/* https://images.unsplash.com/photo-1530908295418-a12e326966ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60 */
